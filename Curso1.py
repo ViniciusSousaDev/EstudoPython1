@@ -1,5 +1,4 @@
-print('Ola, mundo')
+print('*')
 
-print(7+4)
-
-print ('ola','4')
+for i in range(1, 6):
+    print("*" * i)
